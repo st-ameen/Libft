@@ -8,7 +8,6 @@ Welcome to **Libft**, my implementation of the standard C library functions and 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -114,31 +113,6 @@ While many `.c` files contain comments with test cases, you can use an automated
 4. **Review the Results**
 
    The tester will output the results of each test case, indicating passed and failed tests. Use this feedback to debug and improve your functions.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m 'Add Your Feature'
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request**
 
 ## License
 
